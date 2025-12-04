@@ -73,8 +73,7 @@ The dataset follows a structured expansion plan:
 #### Planned Expansion Roadmap:
 - **v1.0.1r0** (Current): 6,107 images ✓
 - **v1.1.0**: ~8,000 images (planned)
-- **v1.2.0**: ~10,000 images (planned)
-- **v2.0.0**: Major update with architectural improvements
+
 
 ### 🔄 Update Process
 

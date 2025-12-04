@@ -1,5 +1,3 @@
-Отличное дополнение! Вот обновленная версия README с информацией о регулярном пополнении датасета и указанием версии:
-
 # OpenNSFW for ML.NET
 
 [![.NET](https://img.shields.io/badge/.NET-8.0%2B-blueviolet)](https://dotnet.microsoft.com/)

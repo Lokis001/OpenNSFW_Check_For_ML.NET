@@ -1,4 +1,4 @@
-# OpenNSFW_Check for ML.NET
+# OpenNSFW for ML.NET
 
 [![.NET](https://img.shields.io/badge/.NET-8.0%2B-blueviolet)](https://dotnet.microsoft.com/)
 [![ML.NET](https://img.shields.io/badge/ML.NET-4.0%2B-red)](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet)

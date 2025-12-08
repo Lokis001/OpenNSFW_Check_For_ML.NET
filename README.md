@@ -124,7 +124,7 @@ namespace NSFW_Detection
             var mlContext = new MLContext();
             
             // Load trained model (version-specific)
-            var modelPath = $"OpenNSFWModel_v1.0.1r0.zip";
+            var modelPath = $"OpenNSFWModel_v1.0.1r0.mlmodel";
             var model = mlContext.Model.Load(modelPath, out var modelSchema);
             
             // Create prediction engine
